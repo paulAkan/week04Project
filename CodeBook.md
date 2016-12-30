@@ -93,7 +93,9 @@ FrequencyDomain.BodyBodyAngularAccelerationMagnitudeStd
 FrequencyDomain.BodyBodyAngularAccelerationMagnitudeMeanFrequency
 
 CODE TRANSFORMATION:
+
 data located in the the link:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip\ul0\cf0}}}}\f0\fs22
 
 1. The training and test data were merged to create one dataset
